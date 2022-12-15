@@ -256,15 +256,12 @@
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>b9b84f161b0b2494cd145312604bcb7a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>x_soud2_manual_bil_adjustment_details</sys_name>
             <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Manual Billing">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_scope>
             <sys_update_name>sys_ui_list_x_soud2_manual_bil_adjustment_details_null</sys_update_name>
-            <sys_updated_by>dyearsley</sys_updated_by>
-            <sys_updated_on>2021-03-24 20:52:24</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

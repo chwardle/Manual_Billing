@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <application display_value="System Import Sets">import_sets</application>
         <assessment/>
         <content_page/>
@@ -27,7 +27,6 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>994052a2db70ac90b52c5688dc96199d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Adjustment Detail Import</sys_name>
         <sys_overrides/>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
@@ -35,8 +34,6 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Manual Billing">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_scope>
         <sys_update_name>sys_app_module_994052a2db70ac90b52c5688dc96199d</sys_update_name>
-        <sys_updated_by>kdefa</sys_updated_by>
-        <sys_updated_on>2020-12-03 15:02:59</sys_updated_on>
         <timeline_page/>
         <title>Adjustment Detail Import</title>
         <uncancelable>false</uncancelable>

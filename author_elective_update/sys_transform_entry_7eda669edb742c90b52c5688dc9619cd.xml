@@ -53,7 +53,7 @@
         <reverted_from/>
         <source>918b92d2db342c90b52c5688dc9619b1</source>
         <source_table>sys_update_set</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>kdefa</sys_created_by>
         <sys_created_on>2020-12-02 22:20:40</sys_created_on>
         <sys_id>f6da669edb742c90b52c5688dc9619d0</sys_id>
@@ -74,7 +74,6 @@
         <sys_db_object display_value="" name="sys_transform_entry">sys_transform_entry</sys_db_object>
         <sys_id>2909a10b892147628b7df5510d0d1c64</sys_id>
         <sys_metadata>7eda669edb742c90b52c5688dc9619cd</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>u_rate_description</sys_name>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
         <sys_parent/>
@@ -84,7 +83,5 @@
         <sys_scope_delete display_value="">279a16034fba4d2190cc50f42cc1ed81</sys_scope_delete>
         <sys_update_name>sys_transform_entry_7eda669edb742c90b52c5688dc9619cd</sys_update_name>
         <sys_update_version display_value="sys_transform_entry_7eda669edb742c90b52c5688dc9619cd">f6da669edb742c90b52c5688dc9619d0</sys_update_version>
-        <sys_updated_by>kdefa</sys_updated_by>
-        <sys_updated_on>2020-12-02 22:29:38</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

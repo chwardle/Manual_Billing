@@ -14,15 +14,12 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>2e93c97ddb5fb3406c66d211ce9619b5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Revenue Unit Approvers</sys_name>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Manual Billing">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_scope>
         <sys_update_name>sys_ui_module_2e93c97ddb5fb3406c66d211ce9619b5</sys_update_name>
-        <sys_updated_by>dyearsley</sys_updated_by>
-        <sys_updated_on>2019-08-16 19:36:06</sys_updated_on>
         <table>x_soud2_manual_bil_revenue_unit_approvers</table>
         <uncancelable>false</uncancelable>
         <view_name/>

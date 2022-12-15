@@ -46,7 +46,7 @@
         <update_guid_history>f8e7b490a25aac1034fd081e4ba37b0e:0,9d977810ca5aac10e0173223689ca237:-1697289259,48e16893fe02e05047fa81368ec1b0b6:-145141376</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Record deleted 2021-02-11 15:02:33">719f4895db5a68901fd251735e961997</sys_audit_delete>
+        <sys_audit_delete display_value="">719f4895db5a68901fd251735e961997</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>dyearsley</sys_created_by>
         <sys_created_on>2021-02-11 22:02:33</sys_created_on>
@@ -54,7 +54,6 @@
         <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
         <sys_id>21f4f747db7142beaae2c15c48e981a4</sys_id>
         <sys_metadata>702a59b9db9fb3406c66d211ce96193f</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>.itil</sys_name>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
         <sys_parent display_value="ManualBilling">7b1a5df1dbdfb3406c66d211ce961921</sys_parent>
@@ -64,7 +63,5 @@
         <sys_scope_delete display_value="">279a16034fba4d2190cc50f42cc1ed81</sys_scope_delete>
         <sys_update_name>sys_security_acl_role_702a59b9db9fb3406c66d211ce96193f</sys_update_name>
         <sys_update_version display_value="sys_security_acl_role_702a59b9db9fb3406c66d211ce96193f">09b9f858db5aac10b52c5688dc96192c</sys_update_version>
-        <sys_updated_by>dyearsley</sys_updated_by>
-        <sys_updated_on>2021-02-11 22:02:33</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

@@ -74,7 +74,6 @@
         <sys_db_object display_value="" name="sys_transform_entry">sys_transform_entry</sys_db_object>
         <sys_id>bc1abecb8b33481098864e9910c89900</sys_id>
         <sys_metadata>4f6cd40c1b76ec10cd145312604bcb96</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>u_rate_code</sys_name>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
         <sys_parent/>
@@ -84,7 +83,5 @@
         <sys_scope_delete display_value="">279a16034fba4d2190cc50f42cc1ed81</sys_scope_delete>
         <sys_update_name>sys_transform_entry_4f6cd40c1b76ec10cd145312604bcb96</sys_update_name>
         <sys_update_version display_value="sys_transform_entry_4f6cd40c1b76ec10cd145312604bcb96">8b6cd40c1b76ec10cd145312604bcb99</sys_update_version>
-        <sys_updated_by>dyearsley</sys_updated_by>
-        <sys_updated_on>2021-03-05 17:15:41</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

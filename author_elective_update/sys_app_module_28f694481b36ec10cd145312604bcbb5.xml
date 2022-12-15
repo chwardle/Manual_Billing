@@ -71,7 +71,7 @@
         <update_guid_history>e4f694484336ec105a79d77a9ea3c5b9:1131614792</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Record deleted 2021-03-05 09:32:27">7007dc101b7aa050cd145312604bcb70</sys_audit_delete>
+        <sys_audit_delete display_value="">7007dc101b7aa050cd145312604bcb70</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>dyearsley</sys_created_by>
         <sys_created_on>2021-03-05 16:32:27</sys_created_on>
@@ -79,7 +79,6 @@
         <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
         <sys_id>6f3b5fe0076e49e58bc1d325a79113c1</sys_id>
         <sys_metadata>28f694481b36ec10cd145312604bcbb5</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Manual Billing Adjustments</sys_name>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
         <sys_parent/>
@@ -89,7 +88,5 @@
         <sys_scope_delete display_value="">279a16034fba4d2190cc50f42cc1ed81</sys_scope_delete>
         <sys_update_name>sys_app_module_28f694481b36ec10cd145312604bcbb5</sys_update_name>
         <sys_update_version display_value="sys_app_module_28f694481b36ec10cd145312604bcbb5">ecf694481b36ec10cd145312604bcbb9</sys_update_version>
-        <sys_updated_by>dyearsley</sys_updated_by>
-        <sys_updated_on>2021-03-05 16:32:27</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

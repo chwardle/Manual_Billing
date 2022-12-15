@@ -115,7 +115,6 @@
         <sys_db_object display_value="" name="sys_data_source">sys_data_source</sys_db_object>
         <sys_id>926660b986d44cee8f2d3481d3aa2c89</sys_id>
         <sys_metadata>aa76fb731baeac10cd145312604bcb8e</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>MBA_2021-03-04 12:32:07</sys_name>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
         <sys_parent/>
@@ -125,7 +124,5 @@
         <sys_scope_delete display_value="">279a16034fba4d2190cc50f42cc1ed81</sys_scope_delete>
         <sys_update_name>sys_data_source_aa76fb731baeac10cd145312604bcb8e</sys_update_name>
         <sys_update_version display_value="sys_data_source_aa76fb731baeac10cd145312604bcb8e">7e86fb731baeac10cd145312604bcb96</sys_update_version>
-        <sys_updated_by>dyearsley</sys_updated_by>
-        <sys_updated_on>2021-03-05 16:39:48</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

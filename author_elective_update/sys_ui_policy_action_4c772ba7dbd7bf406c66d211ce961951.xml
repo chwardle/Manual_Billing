@@ -82,7 +82,6 @@
         <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
         <sys_id>d61797f51a3547108057bbf9ec403100</sys_id>
         <sys_metadata>4c772ba7dbd7bf406c66d211ce961951</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>rate_code.revenue_unit.u_rate_description</sys_name>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
         <sys_parent display_value="Read only Fields Adjustment Details">a3a34bd4db3277407adf5dd5ce9619c6</sys_parent>
@@ -92,7 +91,5 @@
         <sys_scope_delete display_value="">279a16034fba4d2190cc50f42cc1ed81</sys_scope_delete>
         <sys_update_name>sys_ui_policy_action_4c772ba7dbd7bf406c66d211ce961951</sys_update_name>
         <sys_update_version display_value="sys_ui_policy_action_4c772ba7dbd7bf406c66d211ce961951">ff0c99e1dbee80106c66d211ce961908</sys_update_version>
-        <sys_updated_by>dyearsley</sys_updated_by>
-        <sys_updated_on>2020-02-05 14:56:30</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

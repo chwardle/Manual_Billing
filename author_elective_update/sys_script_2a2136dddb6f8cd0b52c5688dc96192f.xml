@@ -101,7 +101,6 @@
         <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
         <sys_id>0acef8f2b2774fc68e51d0bec64c1d84</sys_id>
         <sys_metadata>2a2136dddb6f8cd0b52c5688dc96192f</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Get Approvers</sys_name>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
         <sys_parent display_value="">8d770848db2333806c66d211ce961972</sys_parent>
@@ -111,7 +110,5 @@
         <sys_scope_delete display_value="">279a16034fba4d2190cc50f42cc1ed81</sys_scope_delete>
         <sys_update_name>sys_script_2a2136dddb6f8cd0b52c5688dc96192f</sys_update_name>
         <sys_update_version display_value="sys_script_2a2136dddb6f8cd0b52c5688dc96192f">5a9b41dadb634410b52c5688dc961918</sys_update_version>
-        <sys_updated_by>dyearsley</sys_updated_by>
-        <sys_updated_on>2020-03-16 15:55:16</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

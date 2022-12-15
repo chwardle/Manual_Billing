@@ -35,8 +35,8 @@
         <sys_created_on>2020-03-25 20:43:35</sys_created_on>
         <sys_id>37f32019dbbf0850b52c5688dc961941</sys_id>
         <sys_mod_count>11</sys_mod_count>
-        <sys_updated_by>kdefa</sys_updated_by>
-        <sys_updated_on>2020-12-02 21:24:31</sys_updated_on>
+        <sys_updated_by>jhawkley</sys_updated_by>
+        <sys_updated_on>2020-11-17 22:13:59</sys_updated_on>
         <table>x_soud2_manual_bil_manual_billing_header</table>
         <timezone/>
         <validated>true</validated>
@@ -167,7 +167,7 @@
 //    counts.not_required = # of users that approval is not required&#13;
 //&#13;
 </value>
-        <variable display_value="">02c86d780a0a0b261e6a356bc893d348</variable>
+        <variable display_value="Approval Script">02c86d780a0a0b261e6a356bc893d348</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -181,7 +181,7 @@
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>any</value>
-        <variable display_value="">c35e5bdd0a0a0ba96248a709f495c9ae</variable>
+        <variable display_value="Wait for">c35e5bdd0a0a0ba96248a709f495c9ae</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -195,7 +195,7 @@
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>3bf802c20a0a0b52008e2859cd8abcf2</value>
-        <variable display_value="">a76c6257c0a8006645cff43883470e64</variable>
+        <variable display_value="Relative duration">a76c6257c0a8006645cff43883470e64</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -209,7 +209,7 @@
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>approval_history</value>
-        <variable display_value="">e863e3b80a0004f911d67787e77e0f16</variable>
+        <variable display_value="Approval Journal Column">e863e3b80a0004f911d67787e77e0f16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -223,7 +223,7 @@
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">e37b77ac0a0004f973283ad13b341c5b</variable>
+        <variable display_value="Document ID">e37b77ac0a0004f973283ad13b341c5b</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -237,7 +237,7 @@
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a7781cb6c0a80066147dc7a5244d5d16</variable>
+        <variable display_value="Time zone field">a7781cb6c0a80066147dc7a5244d5d16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -251,7 +251,7 @@
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">4485eef70a6a803f6bc4bafa9e999640</variable>
+        <variable display_value="Condition">4485eef70a6a803f6bc4bafa9e999640</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -265,7 +265,7 @@
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">c35e4cc40a0a0ba96248a7098ec9cb06</variable>
+        <variable display_value="Users">c35e4cc40a0a0ba96248a7098ec9cb06</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -279,7 +279,7 @@
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>approval</value>
-        <variable display_value="">e846198f0a0004f91fba434a514ba8b8</variable>
+        <variable display_value="Approval Column">e846198f0a0004f91fba434a514ba8b8</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -293,7 +293,7 @@
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a76680b9c0a8006661b107d0f21fae67</variable>
+        <variable display_value="Due date based on">a76680b9c0a8006661b107d0f21fae67</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -307,7 +307,7 @@
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>0</value>
-        <variable display_value="">02ca01820a0a0b261cf923fb95f5e1d0</variable>
+        <variable display_value="Advanced">02ca01820a0a0b261cf923fb95f5e1d0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -321,7 +321,7 @@
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">e37a96e80a0004f978b47d2d6c5e0b22</variable>
+        <variable display_value="Document Table">e37a96e80a0004f978b47d2d6c5e0b22</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -336,7 +336,7 @@
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>// Set 'answer' to the number of seconds this timer should wait&#13;
 answer = 0;</value>
-        <variable display_value="">a782cde9c0a8006608f39abdd85c8395</variable>
+        <variable display_value="Due date script">a782cde9c0a8006608f39abdd85c8395</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -350,7 +350,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>8a6a17f5dbde2344fb0ce1c2ca961953</value>
-        <variable display_value="">02c618170a0a0b26436f5c2c9f7a3901</variable>
+        <variable display_value="Groups">02c618170a0a0b26436f5c2c9f7a3901</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -370,7 +370,7 @@ answer = 0;</value>
 //       answer.push('id1');&#13;
 //       answer.push('id2');&#13;
 </value>
-        <variable display_value="">c35e582f0a0a0ba96248a70985207e63</variable>
+        <variable display_value="Additional approvers script">c35e582f0a0a0ba96248a70985207e63</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -384,7 +384,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a77191a4c0a800662b403f7dff5f1bbd</variable>
+        <variable display_value="Schedule based on">a77191a4c0a800662b403f7dff5f1bbd</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -398,7 +398,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a7754e91c0a800664938d0ef6d2664d7</variable>
+        <variable display_value="Schedule">a7754e91c0a800664938d0ef6d2664d7</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -412,7 +412,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a769a182c0a8006629db7fa3fc2a863d</variable>
+        <variable display_value="Duration">a769a182c0a8006629db7fa3fc2a863d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -426,7 +426,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a775f59ac0a8006665d72362ae687035</variable>
+        <variable display_value="Time zone">a775f59ac0a8006665d72362ae687035</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -440,7 +440,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a774138dc0a80066000be7af20961c7d</variable>
+        <variable display_value="Schedule field">a774138dc0a80066000be7af20961c7d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -454,7 +454,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a76b8c6ec0a800664bb14d5d8b9cd7c4</variable>
+        <variable display_value="Due date field">a76b8c6ec0a800664bb14d5d8b9cd7c4</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -468,7 +468,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>reject</value>
-        <variable display_value="">502163410a6a803f0356332b24dc7945</variable>
+        <variable display_value="When anyone rejects">502163410a6a803f0356332b24dc7945</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -482,7 +482,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a77903a7c0a8006641af7c9b1d34444e</variable>
+        <variable display_value="Time zone based on">a77903a7c0a8006641af7c9b1d34444e</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -496,7 +496,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">4485eef70a6a803f6bc4bafa9e999640</variable>
+        <variable display_value="Condition">4485eef70a6a803f6bc4bafa9e999640</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -510,7 +510,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>any</value>
-        <variable display_value="">c35e5bdd0a0a0ba96248a709f495c9ae</variable>
+        <variable display_value="Wait for">c35e5bdd0a0a0ba96248a709f495c9ae</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -524,7 +524,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>approval</value>
-        <variable display_value="">e846198f0a0004f91fba434a514ba8b8</variable>
+        <variable display_value="Approval Column">e846198f0a0004f91fba434a514ba8b8</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -538,7 +538,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">e37b77ac0a0004f973283ad13b341c5b</variable>
+        <variable display_value="Document ID">e37b77ac0a0004f973283ad13b341c5b</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -552,7 +552,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">e37a96e80a0004f978b47d2d6c5e0b22</variable>
+        <variable display_value="Document Table">e37a96e80a0004f978b47d2d6c5e0b22</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -566,7 +566,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a77191a4c0a800662b403f7dff5f1bbd</variable>
+        <variable display_value="Schedule based on">a77191a4c0a800662b403f7dff5f1bbd</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -580,7 +580,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a76680b9c0a8006661b107d0f21fae67</variable>
+        <variable display_value="Due date based on">a76680b9c0a8006661b107d0f21fae67</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -594,7 +594,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a77903a7c0a8006641af7c9b1d34444e</variable>
+        <variable display_value="Time zone based on">a77903a7c0a8006641af7c9b1d34444e</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -608,7 +608,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">c35e4cc40a0a0ba96248a7098ec9cb06</variable>
+        <variable display_value="Users">c35e4cc40a0a0ba96248a7098ec9cb06</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -622,7 +622,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>reject</value>
-        <variable display_value="">502163410a6a803f0356332b24dc7945</variable>
+        <variable display_value="When anyone rejects">502163410a6a803f0356332b24dc7945</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -636,7 +636,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>approval_history</value>
-        <variable display_value="">e863e3b80a0004f911d67787e77e0f16</variable>
+        <variable display_value="Approval Journal Column">e863e3b80a0004f911d67787e77e0f16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -650,7 +650,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a774138dc0a80066000be7af20961c7d</variable>
+        <variable display_value="Schedule field">a774138dc0a80066000be7af20961c7d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -664,7 +664,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a7754e91c0a800664938d0ef6d2664d7</variable>
+        <variable display_value="Schedule">a7754e91c0a800664938d0ef6d2664d7</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -678,7 +678,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a769a182c0a8006629db7fa3fc2a863d</variable>
+        <variable display_value="Duration">a769a182c0a8006629db7fa3fc2a863d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -692,7 +692,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>3bf802c20a0a0b52008e2859cd8abcf2</value>
-        <variable display_value="">a76c6257c0a8006645cff43883470e64</variable>
+        <variable display_value="Relative duration">a76c6257c0a8006645cff43883470e64</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -706,7 +706,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a76b8c6ec0a800664bb14d5d8b9cd7c4</variable>
+        <variable display_value="Due date field">a76b8c6ec0a800664bb14d5d8b9cd7c4</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -720,7 +720,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a775f59ac0a8006665d72362ae687035</variable>
+        <variable display_value="Time zone">a775f59ac0a8006665d72362ae687035</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -734,7 +734,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a7781cb6c0a80066147dc7a5244d5d16</variable>
+        <variable display_value="Time zone field">a7781cb6c0a80066147dc7a5244d5d16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -748,7 +748,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>8a6a17f5dbde2344fb0ce1c2ca961953</value>
-        <variable display_value="">02c618170a0a0b26436f5c2c9f7a3901</variable>
+        <variable display_value="Groups">02c618170a0a0b26436f5c2c9f7a3901</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -763,7 +763,7 @@ answer = 0;</value>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>// Set 'answer' to the number of seconds this timer should wait&#13;
 answer = 0;</value>
-        <variable display_value="">a782cde9c0a8006608f39abdd85c8395</variable>
+        <variable display_value="Due date script">a782cde9c0a8006608f39abdd85c8395</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -786,7 +786,7 @@ answer = 0;</value>
 //    counts.not_required = # of users that approval is not required&#13;
 //&#13;
 </value>
-        <variable display_value="">02c86d780a0a0b261e6a356bc893d348</variable>
+        <variable display_value="Approval Script">02c86d780a0a0b261e6a356bc893d348</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -800,7 +800,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>0</value>
-        <variable display_value="">02ca01820a0a0b261cf923fb95f5e1d0</variable>
+        <variable display_value="Advanced">02ca01820a0a0b261cf923fb95f5e1d0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -820,7 +820,7 @@ answer = 0;</value>
 //       answer.push('id1');&#13;
 //       answer.push('id2');&#13;
 </value>
-        <variable display_value="">c35e582f0a0a0ba96248a70985207e63</variable>
+        <variable display_value="Additional approvers script">c35e582f0a0a0ba96248a70985207e63</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="DTS Accounting Approval">c4042499dbbf0850b52c5688dc961946</activity>
@@ -934,7 +934,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">e37b77ac0a0004f973283ad13b341c5b</variable>
+        <variable display_value="Document ID">e37b77ac0a0004f973283ad13b341c5b</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -948,7 +948,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a7781cb6c0a80066147dc7a5244d5d16</variable>
+        <variable display_value="Time zone field">a7781cb6c0a80066147dc7a5244d5d16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -971,7 +971,7 @@ answer = 0;</value>
 //    counts.not_required = # of users that approval is not required&#13;
 //&#13;
 </value>
-        <variable display_value="">02c86d780a0a0b261e6a356bc893d348</variable>
+        <variable display_value="Approval Script">02c86d780a0a0b261e6a356bc893d348</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -985,7 +985,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>all</value>
-        <variable display_value="">c35e5bdd0a0a0ba96248a709f495c9ae</variable>
+        <variable display_value="Wait for">c35e5bdd0a0a0ba96248a709f495c9ae</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -999,7 +999,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>3bf802c20a0a0b52008e2859cd8abcf2</value>
-        <variable display_value="">a76c6257c0a8006645cff43883470e64</variable>
+        <variable display_value="Relative duration">a76c6257c0a8006645cff43883470e64</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1013,7 +1013,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>approval_history</value>
-        <variable display_value="">e863e3b80a0004f911d67787e77e0f16</variable>
+        <variable display_value="Approval Journal Column">e863e3b80a0004f911d67787e77e0f16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1027,7 +1027,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>1</value>
-        <variable display_value="">02ca01820a0a0b261cf923fb95f5e1d0</variable>
+        <variable display_value="Advanced">02ca01820a0a0b261cf923fb95f5e1d0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1041,7 +1041,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">e37a96e80a0004f978b47d2d6c5e0b22</variable>
+        <variable display_value="Document Table">e37a96e80a0004f978b47d2d6c5e0b22</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1055,7 +1055,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">4485eef70a6a803f6bc4bafa9e999640</variable>
+        <variable display_value="Condition">4485eef70a6a803f6bc4bafa9e999640</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1069,7 +1069,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">c35e4cc40a0a0ba96248a7098ec9cb06</variable>
+        <variable display_value="Users">c35e4cc40a0a0ba96248a7098ec9cb06</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1083,7 +1083,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>approval</value>
-        <variable display_value="">e846198f0a0004f91fba434a514ba8b8</variable>
+        <variable display_value="Approval Column">e846198f0a0004f91fba434a514ba8b8</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1097,7 +1097,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a76680b9c0a8006661b107d0f21fae67</variable>
+        <variable display_value="Due date based on">a76680b9c0a8006661b107d0f21fae67</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1111,7 +1111,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a769a182c0a8006629db7fa3fc2a863d</variable>
+        <variable display_value="Duration">a769a182c0a8006629db7fa3fc2a863d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1126,7 +1126,7 @@ answer = 0;</value>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>// Set 'answer' to the number of seconds this timer should wait&#13;
 answer = 0;</value>
-        <variable display_value="">a782cde9c0a8006608f39abdd85c8395</variable>
+        <variable display_value="Due date script">a782cde9c0a8006608f39abdd85c8395</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1140,7 +1140,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">02c618170a0a0b26436f5c2c9f7a3901</variable>
+        <variable display_value="Groups">02c618170a0a0b26436f5c2c9f7a3901</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1171,7 +1171,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
 //       answer.push('id1');&#13;
 //       answer.push('id2');&#13;
 </value>
-        <variable display_value="">c35e582f0a0a0ba96248a70985207e63</variable>
+        <variable display_value="Additional approvers script">c35e582f0a0a0ba96248a70985207e63</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1185,7 +1185,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a77191a4c0a800662b403f7dff5f1bbd</variable>
+        <variable display_value="Schedule based on">a77191a4c0a800662b403f7dff5f1bbd</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1199,7 +1199,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a7754e91c0a800664938d0ef6d2664d7</variable>
+        <variable display_value="Schedule">a7754e91c0a800664938d0ef6d2664d7</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1213,7 +1213,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a77903a7c0a8006641af7c9b1d34444e</variable>
+        <variable display_value="Time zone based on">a77903a7c0a8006641af7c9b1d34444e</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1227,7 +1227,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a775f59ac0a8006665d72362ae687035</variable>
+        <variable display_value="Time zone">a775f59ac0a8006665d72362ae687035</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1241,7 +1241,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a774138dc0a80066000be7af20961c7d</variable>
+        <variable display_value="Schedule field">a774138dc0a80066000be7af20961c7d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1255,7 +1255,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a76b8c6ec0a800664bb14d5d8b9cd7c4</variable>
+        <variable display_value="Due date field">a76b8c6ec0a800664bb14d5d8b9cd7c4</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1269,7 +1269,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>wait</value>
-        <variable display_value="">502163410a6a803f0356332b24dc7945</variable>
+        <variable display_value="When anyone rejects">502163410a6a803f0356332b24dc7945</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1283,7 +1283,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">4485eef70a6a803f6bc4bafa9e999640</variable>
+        <variable display_value="Condition">4485eef70a6a803f6bc4bafa9e999640</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1297,7 +1297,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>all</value>
-        <variable display_value="">c35e5bdd0a0a0ba96248a709f495c9ae</variable>
+        <variable display_value="Wait for">c35e5bdd0a0a0ba96248a709f495c9ae</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1311,7 +1311,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>approval</value>
-        <variable display_value="">e846198f0a0004f91fba434a514ba8b8</variable>
+        <variable display_value="Approval Column">e846198f0a0004f91fba434a514ba8b8</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1325,7 +1325,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">e37b77ac0a0004f973283ad13b341c5b</variable>
+        <variable display_value="Document ID">e37b77ac0a0004f973283ad13b341c5b</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1339,7 +1339,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">e37a96e80a0004f978b47d2d6c5e0b22</variable>
+        <variable display_value="Document Table">e37a96e80a0004f978b47d2d6c5e0b22</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1353,7 +1353,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a77191a4c0a800662b403f7dff5f1bbd</variable>
+        <variable display_value="Schedule based on">a77191a4c0a800662b403f7dff5f1bbd</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1367,7 +1367,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a76680b9c0a8006661b107d0f21fae67</variable>
+        <variable display_value="Due date based on">a76680b9c0a8006661b107d0f21fae67</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1381,7 +1381,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a77903a7c0a8006641af7c9b1d34444e</variable>
+        <variable display_value="Time zone based on">a77903a7c0a8006641af7c9b1d34444e</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1395,7 +1395,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">c35e4cc40a0a0ba96248a7098ec9cb06</variable>
+        <variable display_value="Users">c35e4cc40a0a0ba96248a7098ec9cb06</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1409,7 +1409,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>wait</value>
-        <variable display_value="">502163410a6a803f0356332b24dc7945</variable>
+        <variable display_value="When anyone rejects">502163410a6a803f0356332b24dc7945</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1423,7 +1423,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>approval_history</value>
-        <variable display_value="">e863e3b80a0004f911d67787e77e0f16</variable>
+        <variable display_value="Approval Journal Column">e863e3b80a0004f911d67787e77e0f16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1437,7 +1437,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a7754e91c0a800664938d0ef6d2664d7</variable>
+        <variable display_value="Schedule">a7754e91c0a800664938d0ef6d2664d7</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1451,7 +1451,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a774138dc0a80066000be7af20961c7d</variable>
+        <variable display_value="Schedule field">a774138dc0a80066000be7af20961c7d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1465,7 +1465,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a769a182c0a8006629db7fa3fc2a863d</variable>
+        <variable display_value="Duration">a769a182c0a8006629db7fa3fc2a863d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1479,7 +1479,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>3bf802c20a0a0b52008e2859cd8abcf2</value>
-        <variable display_value="">a76c6257c0a8006645cff43883470e64</variable>
+        <variable display_value="Relative duration">a76c6257c0a8006645cff43883470e64</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1493,7 +1493,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a76b8c6ec0a800664bb14d5d8b9cd7c4</variable>
+        <variable display_value="Due date field">a76b8c6ec0a800664bb14d5d8b9cd7c4</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1507,7 +1507,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a7781cb6c0a80066147dc7a5244d5d16</variable>
+        <variable display_value="Time zone field">a7781cb6c0a80066147dc7a5244d5d16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1521,7 +1521,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">a775f59ac0a8006665d72362ae687035</variable>
+        <variable display_value="Time zone">a775f59ac0a8006665d72362ae687035</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1535,7 +1535,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value/>
-        <variable display_value="">02c618170a0a0b26436f5c2c9f7a3901</variable>
+        <variable display_value="Groups">02c618170a0a0b26436f5c2c9f7a3901</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1550,7 +1550,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>// Set 'answer' to the number of seconds this timer should wait&#13;
 answer = 0;</value>
-        <variable display_value="">a782cde9c0a8006608f39abdd85c8395</variable>
+        <variable display_value="Due date script">a782cde9c0a8006608f39abdd85c8395</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1573,7 +1573,7 @@ answer = 0;</value>
 //    counts.not_required = # of users that approval is not required&#13;
 //&#13;
 </value>
-        <variable display_value="">02c86d780a0a0b261e6a356bc893d348</variable>
+        <variable display_value="Approval Script">02c86d780a0a0b261e6a356bc893d348</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1587,7 +1587,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>1</value>
-        <variable display_value="">02ca01820a0a0b261cf923fb95f5e1d0</variable>
+        <variable display_value="Advanced">02ca01820a0a0b261cf923fb95f5e1d0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1618,7 +1618,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
 //       answer.push('id1');&#13;
 //       answer.push('id2');&#13;
 </value>
-        <variable display_value="">c35e582f0a0a0ba96248a70985207e63</variable>
+        <variable display_value="Additional approvers script">c35e582f0a0a0ba96248a70985207e63</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Manager Approval">04042499dbbf0850b52c5688dc96192a</activity>
@@ -1703,7 +1703,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>wait</value>
-        <variable display_value="">502163410a6a803f0356332b24dc7945</variable>
+        <variable display_value="When anyone rejects">502163410a6a803f0356332b24dc7945</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1717,7 +1717,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a77903a7c0a8006641af7c9b1d34444e</variable>
+        <variable display_value="Time zone based on">a77903a7c0a8006641af7c9b1d34444e</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1731,7 +1731,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a775f59ac0a8006665d72362ae687035</variable>
+        <variable display_value="Time zone">a775f59ac0a8006665d72362ae687035</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1745,7 +1745,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a774138dc0a80066000be7af20961c7d</variable>
+        <variable display_value="Schedule field">a774138dc0a80066000be7af20961c7d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1759,7 +1759,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a76b8c6ec0a800664bb14d5d8b9cd7c4</variable>
+        <variable display_value="Due date field">a76b8c6ec0a800664bb14d5d8b9cd7c4</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1773,7 +1773,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">e37b77ac0a0004f973283ad13b341c5b</variable>
+        <variable display_value="Document ID">e37b77ac0a0004f973283ad13b341c5b</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1787,7 +1787,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a7781cb6c0a80066147dc7a5244d5d16</variable>
+        <variable display_value="Time zone field">a7781cb6c0a80066147dc7a5244d5d16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1810,7 +1810,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
 //    counts.not_required = # of users that approval is not required&#13;
 //&#13;
 </value>
-        <variable display_value="">02c86d780a0a0b261e6a356bc893d348</variable>
+        <variable display_value="Approval Script">02c86d780a0a0b261e6a356bc893d348</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1824,7 +1824,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>all</value>
-        <variable display_value="">c35e5bdd0a0a0ba96248a709f495c9ae</variable>
+        <variable display_value="Wait for">c35e5bdd0a0a0ba96248a709f495c9ae</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1838,7 +1838,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>3bf802c20a0a0b52008e2859cd8abcf2</value>
-        <variable display_value="">a76c6257c0a8006645cff43883470e64</variable>
+        <variable display_value="Relative duration">a76c6257c0a8006645cff43883470e64</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1852,7 +1852,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>approval_history</value>
-        <variable display_value="">e863e3b80a0004f911d67787e77e0f16</variable>
+        <variable display_value="Approval Journal Column">e863e3b80a0004f911d67787e77e0f16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1866,7 +1866,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>1</value>
-        <variable display_value="">02ca01820a0a0b261cf923fb95f5e1d0</variable>
+        <variable display_value="Advanced">02ca01820a0a0b261cf923fb95f5e1d0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1880,7 +1880,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">e37a96e80a0004f978b47d2d6c5e0b22</variable>
+        <variable display_value="Document Table">e37a96e80a0004f978b47d2d6c5e0b22</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1894,7 +1894,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">4485eef70a6a803f6bc4bafa9e999640</variable>
+        <variable display_value="Condition">4485eef70a6a803f6bc4bafa9e999640</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1908,7 +1908,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">c35e4cc40a0a0ba96248a7098ec9cb06</variable>
+        <variable display_value="Users">c35e4cc40a0a0ba96248a7098ec9cb06</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1922,7 +1922,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>approval</value>
-        <variable display_value="">e846198f0a0004f91fba434a514ba8b8</variable>
+        <variable display_value="Approval Column">e846198f0a0004f91fba434a514ba8b8</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1936,7 +1936,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a76680b9c0a8006661b107d0f21fae67</variable>
+        <variable display_value="Due date based on">a76680b9c0a8006661b107d0f21fae67</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1950,7 +1950,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a769a182c0a8006629db7fa3fc2a863d</variable>
+        <variable display_value="Duration">a769a182c0a8006629db7fa3fc2a863d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1965,7 +1965,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>// Set 'answer' to the number of seconds this timer should wait&#13;
 answer = 0;</value>
-        <variable display_value="">a782cde9c0a8006608f39abdd85c8395</variable>
+        <variable display_value="Due date script">a782cde9c0a8006608f39abdd85c8395</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -1979,7 +1979,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">02c618170a0a0b26436f5c2c9f7a3901</variable>
+        <variable display_value="Groups">02c618170a0a0b26436f5c2c9f7a3901</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2010,7 +2010,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
 //       answer.push('id1');&#13;
 //       answer.push('id2');&#13;
 </value>
-        <variable display_value="">c35e582f0a0a0ba96248a70985207e63</variable>
+        <variable display_value="Additional approvers script">c35e582f0a0a0ba96248a70985207e63</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2024,7 +2024,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a77191a4c0a800662b403f7dff5f1bbd</variable>
+        <variable display_value="Schedule based on">a77191a4c0a800662b403f7dff5f1bbd</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2038,7 +2038,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a7754e91c0a800664938d0ef6d2664d7</variable>
+        <variable display_value="Schedule">a7754e91c0a800664938d0ef6d2664d7</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2052,7 +2052,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">4485eef70a6a803f6bc4bafa9e999640</variable>
+        <variable display_value="Condition">4485eef70a6a803f6bc4bafa9e999640</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2066,7 +2066,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>all</value>
-        <variable display_value="">c35e5bdd0a0a0ba96248a709f495c9ae</variable>
+        <variable display_value="Wait for">c35e5bdd0a0a0ba96248a709f495c9ae</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2080,7 +2080,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>approval</value>
-        <variable display_value="">e846198f0a0004f91fba434a514ba8b8</variable>
+        <variable display_value="Approval Column">e846198f0a0004f91fba434a514ba8b8</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2094,7 +2094,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">e37b77ac0a0004f973283ad13b341c5b</variable>
+        <variable display_value="Document ID">e37b77ac0a0004f973283ad13b341c5b</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2108,7 +2108,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">e37a96e80a0004f978b47d2d6c5e0b22</variable>
+        <variable display_value="Document Table">e37a96e80a0004f978b47d2d6c5e0b22</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2122,7 +2122,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a77191a4c0a800662b403f7dff5f1bbd</variable>
+        <variable display_value="Schedule based on">a77191a4c0a800662b403f7dff5f1bbd</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2136,7 +2136,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a76680b9c0a8006661b107d0f21fae67</variable>
+        <variable display_value="Due date based on">a76680b9c0a8006661b107d0f21fae67</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2150,7 +2150,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a77903a7c0a8006641af7c9b1d34444e</variable>
+        <variable display_value="Time zone based on">a77903a7c0a8006641af7c9b1d34444e</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2164,7 +2164,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">c35e4cc40a0a0ba96248a7098ec9cb06</variable>
+        <variable display_value="Users">c35e4cc40a0a0ba96248a7098ec9cb06</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2178,7 +2178,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>wait</value>
-        <variable display_value="">502163410a6a803f0356332b24dc7945</variable>
+        <variable display_value="When anyone rejects">502163410a6a803f0356332b24dc7945</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2192,7 +2192,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>approval_history</value>
-        <variable display_value="">e863e3b80a0004f911d67787e77e0f16</variable>
+        <variable display_value="Approval Journal Column">e863e3b80a0004f911d67787e77e0f16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2206,7 +2206,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a7754e91c0a800664938d0ef6d2664d7</variable>
+        <variable display_value="Schedule">a7754e91c0a800664938d0ef6d2664d7</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2220,7 +2220,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a774138dc0a80066000be7af20961c7d</variable>
+        <variable display_value="Schedule field">a774138dc0a80066000be7af20961c7d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2234,7 +2234,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a769a182c0a8006629db7fa3fc2a863d</variable>
+        <variable display_value="Duration">a769a182c0a8006629db7fa3fc2a863d</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2248,7 +2248,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>3bf802c20a0a0b52008e2859cd8abcf2</value>
-        <variable display_value="">a76c6257c0a8006645cff43883470e64</variable>
+        <variable display_value="Relative duration">a76c6257c0a8006645cff43883470e64</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2262,7 +2262,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a76b8c6ec0a800664bb14d5d8b9cd7c4</variable>
+        <variable display_value="Due date field">a76b8c6ec0a800664bb14d5d8b9cd7c4</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2276,7 +2276,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a7781cb6c0a80066147dc7a5244d5d16</variable>
+        <variable display_value="Time zone field">a7781cb6c0a80066147dc7a5244d5d16</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2290,7 +2290,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">a775f59ac0a8006665d72362ae687035</variable>
+        <variable display_value="Time zone">a775f59ac0a8006665d72362ae687035</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2304,7 +2304,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value/>
-        <variable display_value="">02c618170a0a0b26436f5c2c9f7a3901</variable>
+        <variable display_value="Groups">02c618170a0a0b26436f5c2c9f7a3901</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2319,7 +2319,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>// Set 'answer' to the number of seconds this timer should wait&#13;
 answer = 0;</value>
-        <variable display_value="">a782cde9c0a8006608f39abdd85c8395</variable>
+        <variable display_value="Due date script">a782cde9c0a8006608f39abdd85c8395</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2342,7 +2342,7 @@ answer = 0;</value>
 //    counts.not_required = # of users that approval is not required&#13;
 //&#13;
 </value>
-        <variable display_value="">02c86d780a0a0b261e6a356bc893d348</variable>
+        <variable display_value="Approval Script">02c86d780a0a0b261e6a356bc893d348</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2356,7 +2356,7 @@ answer = 0;</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>1</value>
-        <variable display_value="">02ca01820a0a0b261cf923fb95f5e1d0</variable>
+        <variable display_value="Advanced">02ca01820a0a0b261cf923fb95f5e1d0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2387,7 +2387,7 @@ var answer = new global.ArrayUtil().unique(answer);&#13;
 //       answer.push('id1');&#13;
 //       answer.push('id2');&#13;
 </value>
-        <variable display_value="">c35e582f0a0a0ba96248a70985207e63</variable>
+        <variable display_value="Additional approvers script">c35e582f0a0a0ba96248a70985207e63</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Manager ReApproval">88042499dbbf0850b52c5688dc961923</activity>
@@ -2478,7 +2478,7 @@ gr.query();&#13;
 gr.setValue('approval','approved');&#13;
 gr.setValue('state',3);&#13;
 gr.updateMultiple();</value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2498,7 +2498,7 @@ gr.query();&#13;
 gr.setValue('approval','approved');&#13;
 gr.setValue('state',3);&#13;
 gr.updateMultiple();</value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Manual Billing  Approved - Mark Adjustments">88042499dbbf0850b52c5688dc96194b</activity>
@@ -2562,7 +2562,7 @@ gr.updateMultiple();</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>state=4^approval=rejected^EQ</value>
-        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+        <variable display_value="Set these values">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2576,7 +2576,7 @@ gr.updateMultiple();</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>state=4^approval=rejected^EQ</value>
-        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+        <variable display_value="Set these values">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Manual Billing Rejected">48042499dbbf0850b52c5688dc96194c</activity>
@@ -2646,7 +2646,7 @@ gr.query();&#13;
 gr.setValue('approval','rejected');&#13;
 gr.setValue('state',4);&#13;
 gr.updateMultiple();</value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2666,7 +2666,7 @@ gr.query();&#13;
 gr.setValue('approval','rejected');&#13;
 gr.setValue('state',4);&#13;
 gr.updateMultiple();</value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Manual Billing Rejected - Mark Adjustments">08042499dbbf0850b52c5688dc961945</activity>
@@ -2745,7 +2745,7 @@ while (grA.next()) {&#13;
     gr.setValue('state', -5);&#13;
     gr.updateMultiple();&#13;
 }</value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2774,7 +2774,7 @@ while (grA.next()) {&#13;
     gr.setValue('state', -5);&#13;
     gr.updateMultiple();&#13;
 }</value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Mark Adjustments that have been Rejected">40042499dbbf0850b52c5688dc961929</activity>
@@ -2838,7 +2838,7 @@ while (grA.next()) {&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>${opened_by}</value>
-        <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
+        <variable display_value="To">c35daa890a0a0ba96248a709c32994d6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2854,7 +2854,7 @@ while (grA.next()) {&#13;
         <value>Number: ${number}&#13;
 &#13;
 To Access the Manual Billing record: ${URI_REF} </value>
-        <variable display_value="">c35db5a50a0a0ba96248a70938ae8de6</variable>
+        <variable display_value="Message">c35db5a50a0a0ba96248a70938ae8de6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2868,7 +2868,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>Manual Billing  ${number} Has been Approved</value>
-        <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
+        <variable display_value="Subject">c35db2180a0a0ba96248a709d1b6df20</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2883,7 +2883,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.
 </value>
-        <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
+        <variable display_value="To (script)">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2897,7 +2897,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>0</value>
-        <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
+        <variable display_value="Advanced">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2911,7 +2911,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>dae694917b33700004988180984d4d83</value>
-        <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
+        <variable display_value="To (groups)">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2925,7 +2925,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>${opened_by}</value>
-        <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
+        <variable display_value="To">c35daa890a0a0ba96248a709c32994d6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2939,7 +2939,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>dae694917b33700004988180984d4d83</value>
-        <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
+        <variable display_value="To (groups)">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2953,7 +2953,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>Manual Billing  ${number} Has been Approved</value>
-        <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
+        <variable display_value="Subject">c35db2180a0a0ba96248a709d1b6df20</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2969,7 +2969,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <value>Number: ${number}&#13;
 &#13;
 To Access the Manual Billing record: ${URI_REF} </value>
-        <variable display_value="">c35db5a50a0a0ba96248a70938ae8de6</variable>
+        <variable display_value="Message">c35db5a50a0a0ba96248a70938ae8de6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2983,7 +2983,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>0</value>
-        <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
+        <variable display_value="Advanced">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -2998,7 +2998,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.
 </value>
-        <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
+        <variable display_value="To (script)">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Notify of Completion">4c042499dbbf0850b52c5688dc961940</activity>
@@ -3062,7 +3062,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>0</value>
-        <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
+        <variable display_value="Advanced">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3076,7 +3076,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>dae694917b33700004988180984d4d83</value>
-        <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
+        <variable display_value="To (groups)">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3092,7 +3092,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <value>Number: ${number}&#13;
 &#13;
 To Access the Manual Billing record: ${URI_REF} </value>
-        <variable display_value="">c35db5a50a0a0ba96248a70938ae8de6</variable>
+        <variable display_value="Message">c35db5a50a0a0ba96248a70938ae8de6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3106,7 +3106,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>${opened_by}</value>
-        <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
+        <variable display_value="To">c35daa890a0a0ba96248a709c32994d6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3120,7 +3120,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>Manual Billing  ${number} Has been Rejected - Please make requested fixes</value>
-        <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
+        <variable display_value="Subject">c35db2180a0a0ba96248a709d1b6df20</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3135,7 +3135,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.
 </value>
-        <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
+        <variable display_value="To (script)">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3149,7 +3149,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>${opened_by}</value>
-        <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
+        <variable display_value="To">c35daa890a0a0ba96248a709c32994d6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3163,7 +3163,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>dae694917b33700004988180984d4d83</value>
-        <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
+        <variable display_value="To (groups)">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3177,7 +3177,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>Manual Billing  ${number} Has been Rejected - Please make requested fixes</value>
-        <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
+        <variable display_value="Subject">c35db2180a0a0ba96248a709d1b6df20</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3193,7 +3193,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <value>Number: ${number}&#13;
 &#13;
 To Access the Manual Billing record: ${URI_REF} </value>
-        <variable display_value="">c35db5a50a0a0ba96248a70938ae8de6</variable>
+        <variable display_value="Message">c35db5a50a0a0ba96248a70938ae8de6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3207,7 +3207,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>0</value>
-        <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
+        <variable display_value="Advanced">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3222,7 +3222,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.
 </value>
-        <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
+        <variable display_value="To (script)">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Notify of Rejection">88042499dbbf0850b52c5688dc961943</activity>
@@ -3286,7 +3286,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>0</value>
-        <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
+        <variable display_value="Advanced">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3300,7 +3300,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>dae694917b33700004988180984d4d83</value>
-        <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
+        <variable display_value="To (groups)">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3314,7 +3314,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>${opened_by}</value>
-        <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
+        <variable display_value="To">c35daa890a0a0ba96248a709c32994d6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3330,7 +3330,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <value>Number: ${number}&#13;
 &#13;
 To Access the Manual Billing record: ${URI_REF} </value>
-        <variable display_value="">c35db5a50a0a0ba96248a70938ae8de6</variable>
+        <variable display_value="Message">c35db5a50a0a0ba96248a70938ae8de6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3344,7 +3344,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>Manual Billing  ${number} Has been Rejected</value>
-        <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
+        <variable display_value="Subject">c35db2180a0a0ba96248a709d1b6df20</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3359,7 +3359,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.
 </value>
-        <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
+        <variable display_value="To (script)">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3373,7 +3373,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>${opened_by}</value>
-        <variable display_value="">c35daa890a0a0ba96248a709c32994d6</variable>
+        <variable display_value="To">c35daa890a0a0ba96248a709c32994d6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3387,7 +3387,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>dae694917b33700004988180984d4d83</value>
-        <variable display_value="">ae2121c70a0a0b3459708c9a60cd7312</variable>
+        <variable display_value="To (groups)">ae2121c70a0a0b3459708c9a60cd7312</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3401,7 +3401,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>Manual Billing  ${number} Has been Rejected</value>
-        <variable display_value="">c35db2180a0a0ba96248a709d1b6df20</variable>
+        <variable display_value="Subject">c35db2180a0a0ba96248a709d1b6df20</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3417,7 +3417,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <value>Number: ${number}&#13;
 &#13;
 To Access the Manual Billing record: ${URI_REF} </value>
-        <variable display_value="">c35db5a50a0a0ba96248a70938ae8de6</variable>
+        <variable display_value="Message">c35db5a50a0a0ba96248a70938ae8de6</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3431,7 +3431,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>0</value>
-        <variable display_value="">6d6816cd0a6a803f0853a8df38007572</variable>
+        <variable display_value="Advanced">6d6816cd0a6a803f0853a8df38007572</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3446,7 +3446,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>// Set the variable 'answer' to a comma-separated list of user or group sys_ids that you want the email sent to.
 </value>
-        <variable display_value="">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
+        <variable display_value="To (script)">c35dae3d0a0a0ba96248a7098ed9b4aa</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Notify of Rejection">b3f32499dbbf0850b52c5688dc96191e</activity>
@@ -3510,7 +3510,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>u_adjustment_type=offset^EQ</value>
-        <variable display_value="">493cba6a0a6a803f07df24b118473551</variable>
+        <variable display_value="Condition">493cba6a0a6a803f07df24b118473551</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3536,7 +3536,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
 //      return 'no';&#13;
 //   }&#13;
 </value>
-        <variable display_value="">c35e50810a0a0ba96248a709b450fc32</variable>
+        <variable display_value="Script">c35e50810a0a0ba96248a709b450fc32</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3550,7 +3550,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>0</value>
-        <variable display_value="">493d2c1d0a6a803f3217a75738ea3289</variable>
+        <variable display_value="Advanced">493d2c1d0a6a803f3217a75738ea3289</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3564,7 +3564,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>u_adjustment_type=offset^EQ</value>
-        <variable display_value="">493cba6a0a6a803f07df24b118473551</variable>
+        <variable display_value="Condition">493cba6a0a6a803f07df24b118473551</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3578,7 +3578,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>0</value>
-        <variable display_value="">493d2c1d0a6a803f3217a75738ea3289</variable>
+        <variable display_value="Advanced">493d2c1d0a6a803f3217a75738ea3289</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3604,7 +3604,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
 //      return 'no';&#13;
 //   }&#13;
 </value>
-        <variable display_value="">c35e50810a0a0ba96248a709b450fc32</variable>
+        <variable display_value="Script">c35e50810a0a0ba96248a709b450fc32</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Offset Request">cc042499dbbf0850b52c5688dc961921</activity>
@@ -3689,7 +3689,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>state=3^approval=approved^EQ</value>
-        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+        <variable display_value="Set these values">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3703,7 +3703,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>state=3^approval=approved^EQ</value>
-        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+        <variable display_value="Set these values">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Set Billing Completion Values">8c042499dbbf0850b52c5688dc96193f</activity>
@@ -3767,7 +3767,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>state=2^approval=requested^EQ</value>
-        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+        <variable display_value="Set these values">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3781,7 +3781,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>state=2^approval=requested^EQ</value>
-        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+        <variable display_value="Set these values">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Set Form Values">c8042499dbbf0850b52c5688dc961942</activity>
@@ -3845,7 +3845,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>state=-5^approval=rejected^EQ</value>
-        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+        <variable display_value="Set these values">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3859,7 +3859,7 @@ To Access the Manual Billing record: ${URI_REF} </value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:35</sys_updated_on>
         <value>state=-5^approval=rejected^EQ</value>
-        <variable display_value="">1cb38c8f0a0a0b266fb48e08de35f507</variable>
+        <variable display_value="Set these values">1cb38c8f0a0a0b266fb48e08de35f507</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Set Rejected Values">0c042499dbbf0850b52c5688dc961920</activity>
@@ -3930,7 +3930,7 @@ gr.query();&#13;
 gr.setValue('approval','requested');&#13;
 gr.setValue('state',2);&#13;
 gr.updateMultiple();</value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -3951,7 +3951,7 @@ gr.query();&#13;
 gr.setValue('approval','requested');&#13;
 gr.setValue('state',2);&#13;
 gr.updateMultiple();</value>
-        <variable display_value="">c35ddef20a0a0ba96248a7090eccd518</variable>
+        <variable display_value="Script">c35ddef20a0a0ba96248a7090eccd518</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Start Adjustment Approval Requested">48042499dbbf0850b52c5688dc96193d</activity>
@@ -4015,7 +4015,7 @@ gr.updateMultiple();</value>
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>approval=requested^state=2^EQ</value>
-        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
+        <variable display_value="Condition">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -4031,7 +4031,7 @@ gr.updateMultiple();</value>
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
-        <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
+        <variable display_value="Condition script">c35debce0a0a0ba96248a709440cf31a</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -4045,7 +4045,7 @@ answer = true;&#13;
         <sys_updated_by>dyearsley</sys_updated_by>
         <sys_updated_on>2020-03-25 20:43:36</sys_updated_on>
         <value>approval=requested^state=2^EQ</value>
-        <variable display_value="">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
+        <variable display_value="Condition">c35dc4cd0a0a0ba96248a70990c1ac54</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>wf_activity</document>
@@ -4061,7 +4061,7 @@ answer = true;&#13;
         <value>// Set the variable 'answer' to true or false to indicate if the condition has been met or not.&#13;
 answer = true;&#13;
 </value>
-        <variable display_value="">c35debce0a0a0ba96248a709440cf31a</variable>
+        <variable display_value="Condition script">c35debce0a0a0ba96248a709440cf31a</variable>
     </sys_variable_value>
     <wf_condition action="INSERT_OR_UPDATE">
         <activity display_value="Wait for Resubmit">08042499dbbf0850b52c5688dc96193e</activity>

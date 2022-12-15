@@ -47,7 +47,6 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>3c3cca92db2b4410b52c5688dc961904</sys_id>
-        <sys_mod_count>2</sys_mod_count>
         <sys_name>Check Approvers</sys_name>
         <sys_overrides/>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
@@ -55,8 +54,6 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Manual Billing">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_scope>
         <sys_update_name>sys_script_3c3cca92db2b4410b52c5688dc961904</sys_update_name>
-        <sys_updated_by>dyearsley</sys_updated_by>
-        <sys_updated_on>2020-03-16 20:41:24</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

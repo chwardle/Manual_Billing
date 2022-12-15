@@ -45,7 +45,7 @@
         <reverted_from/>
         <source>918b92d2db342c90b52c5688dc9619b1</source>
         <source_table>sys_update_set</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>kdefa</sys_created_by>
         <sys_created_on>2020-12-03 14:45:35</sys_created_on>
         <sys_id>5e4c466adb30ac90b52c5688dc9619c2</sys_id>
@@ -66,7 +66,6 @@
         <sys_db_object display_value="" name="sys_transform_script">sys_transform_script</sys_db_object>
         <sys_id>40cd5a855ea84cc89e96814c247ea271</sys_id>
         <sys_metadata>8c4576d2dbf42c90b52c5688dc96196a</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>onBefore</sys_name>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
         <sys_parent display_value="Adjustment Details Transform Map">73aa621edb742c90b52c5688dc9619b0</sys_parent>
@@ -76,7 +75,5 @@
         <sys_scope_delete display_value="">279a16034fba4d2190cc50f42cc1ed81</sys_scope_delete>
         <sys_update_name>sys_transform_script_8c4576d2dbf42c90b52c5688dc96196a</sys_update_name>
         <sys_update_version display_value="sys_transform_script_8c4576d2dbf42c90b52c5688dc96196a">5e4c466adb30ac90b52c5688dc9619c2</sys_update_version>
-        <sys_updated_by>kdefa</sys_updated_by>
-        <sys_updated_on>2020-12-03 14:46:01</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

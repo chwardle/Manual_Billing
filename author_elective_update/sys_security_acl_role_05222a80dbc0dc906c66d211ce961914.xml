@@ -46,7 +46,7 @@
         <update_guid_history>e7487054ea5aac10a955894cd18b2143:-130325128,20e77490e95aac103d192f7154e9f479:0,a0c738502a5aac106d7efa9f5309d559:-130325128,7bd128937902e050948c037c4b9b32fc:507395248</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Record deleted 2021-02-11 15:12:38">21e1545ddb5a68901fd251735e961994</sys_audit_delete>
+        <sys_audit_delete display_value="">21e1545ddb5a68901fd251735e961994</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>dyearsley</sys_created_by>
         <sys_created_on>2021-02-11 22:12:38</sys_created_on>
@@ -54,7 +54,6 @@
         <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
         <sys_id>0df0fa33623a4cce875f906c0d060819</sys_id>
         <sys_metadata>05222a80dbc0dc906c66d211ce961914</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_soud2_manual_bil_revenue_unit_approvers.itil</sys_name>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
         <sys_parent display_value="x_soud2_manual_bil_revenue_unit_approvers">f693c97ddb5fb3406c66d211ce9619cf</sys_parent>
@@ -64,7 +63,5 @@
         <sys_scope_delete display_value="">279a16034fba4d2190cc50f42cc1ed81</sys_scope_delete>
         <sys_update_name>sys_security_acl_role_05222a80dbc0dc906c66d211ce961914</sys_update_name>
         <sys_update_version display_value="sys_security_acl_role_05222a80dbc0dc906c66d211ce961914">a0b9b858db5aac10b52c5688dc96197e</sys_update_version>
-        <sys_updated_by>dyearsley</sys_updated_by>
-        <sys_updated_on>2021-02-11 22:12:38</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

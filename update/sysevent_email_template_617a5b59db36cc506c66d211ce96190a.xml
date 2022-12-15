@@ -25,15 +25,12 @@
         <sys_created_on>2020-02-05 19:32:45</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>617a5b59db36cc506c66d211ce96190a</sys_id>
-        <sys_mod_count>9</sys_mod_count>
         <sys_name>Manual Billing Approval DTS</sys_name>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Manual Billing">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_scope>
         <sys_update_name>sysevent_email_template_617a5b59db36cc506c66d211ce96190a</sys_update_name>
-        <sys_updated_by>dyearsley</sys_updated_by>
-        <sys_updated_on>2020-02-10 21:08:09</sys_updated_on>
         <sys_version>2</sys_version>
     </sysevent_email_template>
 </record_update>

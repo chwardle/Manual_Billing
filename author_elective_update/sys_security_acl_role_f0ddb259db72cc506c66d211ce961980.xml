@@ -54,7 +54,6 @@
         <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
         <sys_id>1e804a36be9e4c88aa96cb1107c8efe4</sys_id>
         <sys_metadata>f0ddb259db72cc506c66d211ce961980</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>.admin</sys_name>
         <sys_package display_value="Manual Billing" source="x_soud2_manual_bil">a369cbe31bf7e3005ae0c91e1e4bcb51</sys_package>
         <sys_parent/>
@@ -64,7 +63,5 @@
         <sys_scope_delete display_value="">279a16034fba4d2190cc50f42cc1ed81</sys_scope_delete>
         <sys_update_name>sys_security_acl_role_f0ddb259db72cc506c66d211ce961980</sys_update_name>
         <sys_update_version display_value="sys_security_acl_role_f0ddb259db72cc506c66d211ce961980">b0dd7e59db72cc506c66d211ce9619d6</sys_update_version>
-        <sys_updated_by>dyearsley</sys_updated_by>
-        <sys_updated_on>2020-04-03 17:04:10</sys_updated_on>
     </sys_metadata_delete>
 </record_update>
